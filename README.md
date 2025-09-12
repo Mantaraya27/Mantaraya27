@@ -34,7 +34,7 @@ Mi objetivo es transformar ideas en soluciones tecnológicas que inspiren y gene
 
 ### 🔹 E-Commerce de Flores  
 Plataforma de comercio electrónico con **Next.js, TypeScript y PostgreSQL**, optimizada con SSR e ISR.  
-👉 [Ver Proyecto](https://lsportafolio.vercel.app)  
+👉 [Ver Proyecto](https://eternal-spring-eta.vercel.app/)  
 
 ### 🔹 Sistema de Gestión de Reportes Conductuales Académicos  
 Aplicación web en **Python Flask** para un colegio técnico, con seguimiento académico y conductual de estudiantes.  
